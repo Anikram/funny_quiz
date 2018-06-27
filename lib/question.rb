@@ -1,5 +1,4 @@
 require 'rexml/document'
-
 require 'date'
 
 class Question
